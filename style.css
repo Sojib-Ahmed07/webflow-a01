@@ -183,6 +183,30 @@ main{
   font-family: "Raleway", sans-serif;
   text-align: left;
 }
+.rating-h{
+  margin-top: 10px;
+  margin-bottom: 12px;
+}
+.comment{
+  margin-top: 15px;
+  display: flex;
+  align-items: center;
+  
+}
+.comment p{
+  display: inline-block;
+  align-items: center;
+}
+.comment img{
+  border-radius: 50%;
+  
+}
+.date{
+  padding-left: 50px;
+}
+#RN{
+  padding-left: 10px;
+}
 .trial{
   display: block;
   text-align: center;
